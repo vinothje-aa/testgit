@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\vbots\\messagebox2","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\vbots\\messagebox2","manualDependencies":["Automation Anywhere\\Bots\\vbots\\childMessage1","Automation Anywhere\\Bots\\vbots\\myBot1"],"scannedDependencies":[]}
